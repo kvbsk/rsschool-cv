@@ -1,4 +1,4 @@
-# *Artur Kovbasyuk*
+# ***Artur Kovbasyuk***
 
 ## **Contacts information:**
 * **Location:** Russia, Nizhniy Novgorod
