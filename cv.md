@@ -10,7 +10,7 @@
 I am 26 years old and I work as a instrumentation and automation engineer. 
 My goal is to get some initial information on frontend development and see if I would like to do it.
 
-## **Code Example**
+## **Code Example from Codewars**
      function multiply(a) {
      return (b) => {
      return a * b
